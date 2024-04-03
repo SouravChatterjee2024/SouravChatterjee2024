@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SouravChatterjee , work at Crystal tech Lab as a Front-end Developer, Founder of ( Sivwave Technology )
+- 👋**Hi, I’m SouravChatterjee , work at Crystal tech Lab as a Front-end Developer, Founder of ( Sivwave Technology )**
 -  I’m interested in Web Development & Product Managment 
 -  I’m currently learning Next.js & Tailwind css
 -  I’m looking to collaborate on various projects 
